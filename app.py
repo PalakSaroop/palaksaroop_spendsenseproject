@@ -116,7 +116,7 @@ st.markdown("<div class='big-title'>SpendSense </div>", unsafe_allow_html=True)
 # INPUT SECTION
 
 st.markdown("<div class='card'>", unsafe_allow_html=True)
-st.markdown("### 🎛 Enter Transaction Details")
+st.markdown("### Enter Transaction Details")
 
 col1, col2 = st.columns(2)
 
